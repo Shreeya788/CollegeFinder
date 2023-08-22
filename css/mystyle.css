@@ -1,0 +1,39 @@
+.jumbotron {
+    height: 100px;
+    max-height: 100px;
+    padding-top: 20px;
+    background-color: #e3e3e3;
+}
+
+.myfontHead {
+    font-family: Verdana, Tahoma, sans-serif;
+    font-size: x-large;
+    font-weight: bolder;
+}
+
+.myfontBody {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #5c5c5c;
+    font-size: large;
+}
+
+.card-txt {
+    text-overflow: ellipsis;
+    overflow: hidden;
+    max-height: 32px;
+    line-height: 16px;
+    color: #5c5c5c;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.card-h {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #333333;
+    font-size: larger;
+}
+
+.titles {
+    font-size: xx-large;
+    font-weight: bold;
+    color: #3c3c3c;
+}
